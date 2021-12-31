@@ -1,0 +1,1 @@
+# various-battery-management-Bise-Curve-fittingction-Newton-Raphson-Golden-Section-Search
